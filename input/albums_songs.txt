@@ -1,0 +1,501 @@
+song_id	title	length_seconds	song_release_date	genre_name	artist_name	album_name	album_release_date	track_number
+1	A Way Of The Good Life	278	43400	Pop	Jay Mack	Dime in two dozen	43454	6
+2	Admiring His Sugar	173	41907	Pop	Jay Mack	Dime in two dozen	43454	7
+3	Afternoon And Dreams	346	37025	Rap	Lindsay Lawrence	Apparatus	44162	1
+4	All Of Time	237	38280	Rock	Tanya Vice	Chip off the old block	44421	3
+5	Altered And Mic	180	37319	Hip Hop	Herman Nolan	Blinded by fame	43425	4
+6	Amused By His Mind	216	38305	Pop	Jay Mack	Dime in two dozen	43454	8
+7	And Angel	219	41238	Rap	Lindsay Lawrence	Apparatus	44162	2
+8	And Paradise	283	38814	Rap	Lindsay Lawrence	Apparatus	44162	3
+9	Angel Of Lost Love	292	36677	Rap	Lindsay Lawrence	Apparatus	44162	4
+10	Angel Of The Ages	175	42391	Pop	Jay Mack	Dime in two dozen	43454	9
+11	Autumn And Angel	327	43942	Jazz	Joel Nicholas	Glass houses	43968	4
+12	"Babe, Do You Like Me?"	141	42037	Pop	Jay Mack	Dime in two dozen	43454	10
+13	"Babe, Don't You Remember?"	244	37820	Country	Veil	Feast of nothing	43123	1
+14	"Babe, Feel The Rhythm"	163	38293	Rock	Brooke Dusk	Chip off the old block	44421	4
+15	"Babe, I Love The Road"	241	39248	Country	Veil	Feast of nothing	43123	2
+16	"Babe, Let's Go"	273	42974	Hip Hop	Herman Nolan	Blinded by fame	43425	5
+17	"Babe, Let's Go Wild"	262	38824	Rock	Brooke Dusk	Chip off the old block	44421	5
+18	"Babe, Smile With Me"	213	41245	Pop	Jay Mack	Dime in two dozen	43454	11
+19	"Babe, Take My Breath Away"	250	43724	Pop	Gerard Gilmore	Beggars and thieves	44026	1
+20	"Babe, We Got It"	317	38057	Pop	Gerard Gilmore	Beggars and thieves	44026	2
+21	"Babe, You're My World"	306	43356	Pop	Gerard Gilmore	Beggars and thieves	44026	3
+22	"Baby, I Love You Forever"	248	43761	Rap	Lindsay Lawrence	Apparatus	44162	5
+23	"Baby, I Miss You"	296	37923	Rock	Brooke Dusk	Chip off the old block	44421	6
+24	"Baby, I Think I Like You"	350	39910	Rap	Lindsay Lawrence	Apparatus	44162	6
+25	"Baby, I'm A Cowboy"	201	39945	Country	Veil	Feast of nothing	43123	3
+26	"Baby, Let's Start This Party"	205	41005	Pop	Gerard Gilmore	Beggars and thieves	44026	4
+27	"Baby, Remember Yesterday?"	218	41901	Rock	Brooke Dusk	Chip off the old block	44421	7
+28	"Baby, Set Me Free"	153	41025	Blues	Vessel	Curtain fall	42905	1
+29	"Baby, You're Everything To Me"	134	38388	Rock	Brooke Dusk	Chip off the old block	44421	8
+30	"Baby, You're My Number One"	307	42534	Pop	Gerard Gilmore	Beggars and thieves	44026	5
+31	"Baby, You're My World"	247	43929	Pop	Gerard Gilmore	Beggars and thieves	44026	6
+32	"Baby, You're No Good For Me"	175	44150	Rap	Lindsay Lawrence	Apparatus	44162	7
+33	"Back Off, Let's Go"	213	40273	Blues	Vessel	Curtain fall	42905	2
+34	"Back Off, People Are Strange"	324	37160	Blues	Vessel	Curtain fall	42905	3
+35	Beautiful And	142	42850	Pop	Gerard Gilmore	Beggars and thieves	44026	7
+36	Because	265	43121	Country	Veil	Feast of nothing	43123	4
+37	Because Of Fire	294	36741	Jazz	Joel Nicholas	Glass houses	43968	5
+38	Bedtime Of The Evening	209	39443	Rap	Lindsay Lawrence	Apparatus	44162	8
+39	Belong To Her Baby	248	37905	Country	Veil	Feast of nothing	43123	5
+40	Belong To His Sorrow	136	42873	Blues	Vessel	Curtain fall	42905	4
+41	Belong To Voice	172	36534	Pop	Gerard Gilmore	Beggars and thieves	44026	8
+42	Belong To Your Sunshine	211	38564	Blues	Vessel	Curtain fall	42905	5
+43	Black And Chances	211	41402	Rock	Brooke Dusk	X marks the spot	44050	1
+44	Bliss Of Soul	341	44250	Jazz	Joel Nicholas	Glass houses	43968	6
+45	Blossom And Soul	231	37127	Country	Veil	Feast of nothing	43123	6
+46	Bomb And History	226	43372	Hip Hop	Herman Nolan	Blinded by fame	43425	6
+47	Brave And Chances	146	36814	Rock	Brooke Dusk	X marks the spot	44050	2
+48	Brave And Moves	198	38427	Hip Hop	Herman Nolan	Blinded by fame	43425	7
+49	Brave And Pride	224	38261	Country	Veil	Feast of nothing	43123	7
+50	Breath Of My Rock 'N Roll	242	40074	Rock	Brooke Dusk	X marks the spot	44050	3
+51	Breath Of My Shadows	349	38852	Rock	Brooke Dusk	X marks the spot	44050	4
+52	Bring It On	180	42816	Hip Hop	Herman Nolan	Blinded by fame	43425	8
+53	Bring On Your Pain	342	39205	Hip Hop	Herman Nolan	Blinded by fame	43425	9
+54	Broken And Love	145	42656	Rock	Brooke Dusk	X marks the spot	44050	5
+55	Business	203	38405	Blues	Vessel	Curtain fall	42905	6
+56	Cash For Your Cash	169	41580	Hip Hop	Herman Nolan	Blinded by fame	43425	10
+57	Chill Of Tomorrow	141	38130	Rap	Nina Logan	Long story short	38477	1
+58	Choice Of Nowhere	188	43398	Pop	Gerard Gilmore	Company of two	44307	1
+59	City Of Mercy	296	43122	Pop	Gerard Gilmore	Company of two	44307	2
+60	City Of The First Time	247	43177	Pop	Gerard Gilmore	Company of two	44307	3
+61	Cling To Baby	128	39556	Pop	Gerard Gilmore	Company of two	44307	4
+62	Close And Madness	283	37623	Rock	Brooke Dusk	X marks the spot	44050	6
+63	Comforting And Paradise	140	37090	Rap	Nina Logan	Long story short	38477	2
+64	Confused And Secrets	179	36762	Electronic	Kirk Dee	Eye of the camera	39731	2
+65	Copy His Kiss	128	38135	Pop	Gerard Gilmore	Company of two	44307	5
+66	Crazy And Dreams	323	44173	Country	Veil	Feast of nothing	43123	8
+67	Crazy And Heart	330	36707	Rap	Nina Logan	Long story short	38477	3
+68	Crazy Of Her Baby	265	43971	Blues	Vessel	Glass shoe	44032	1
+69	Crazy Of Life	283	41356	Country	Veil	Feast of nothing	43123	9
+70	Crossroad Of Daylight	207	43100	Pop	Gerard Gilmore	Company of two	44307	6
+71	Dance And Obsession	262	42912	Pop	Gerard Gilmore	Company of two	44307	7
+72	Dance Of My Dreams	186	44267	Pop	Gerard Gilmore	Company of two	44307	8
+73	Danger Of Secrets	153	37404	Rap	Nina Logan	Long story short	38477	4
+74	Dark And Choice	121	44116	Blues	Vessel	Glass shoe	44032	2
+75	"Darling, A Storm Is Brewing"	319	39639	Country	Veil	Feast of nothing	43123	10
+76	"Darling, Come Back"	309	39424	Pop	Gerard Gilmore	Company of two	44307	9
+77	"Darling, Feel The Rhythm"	204	38540	Rap	Lynn Blade	Forever alone	43138	1
+78	"Darling, Forget About Me"	274	44047	Rock	Brooke Dusk	X marks the spot	44050	7
+79	"Darling, Get It Together"	138	39710	Rock	Brooke Dusk	X marks the spot	44050	8
+80	"Darling, I Have To Let You Go"	239	39513	Rap	Lynn Blade	Forever alone	43138	2
+81	"Darling, I'm A Sinner"	261	37959	Rock	Diane Lake	Life knowledge	44079	1
+82	"Darling, Let's End It"	226	37467	Blues	Vessel	Glass shoe	44032	3
+83	"Darling, Let's Get A Move On"	155	39674	Rock	Diane Lake	Life knowledge	44079	2
+84	"Darling, Oh Baby"	267	40804	Pop	Alec	Sleeping dogs	44387	1
+85	"Darling, Remember Yesterday"	260	43741	Blues	Vessel	Glass shoe	44032	4
+86	"Darling, Rock My World"	304	37932	Rock	Diane Lake	Life knowledge	44079	3
+87	"Darling, Time After Time"	259	38851	Blues	Vessel	Glass shoe	44032	5
+88	"Darling, You Crushed Me"	226	40950	Rock	Diane Lake	Life knowledge	44079	4
+89	"Darling, You're My One And Only"	132	41092	Pop	Alec	Sleeping dogs	44387	2
+90	Date Of Yesterday	267	41511	Pop	Alec	Sleeping dogs	44387	3
+91	Day Of Days	201	44236	Pop	Alec	Sleeping dogs	44387	4
+92	Daydreams Of Time	179	41560	Pop	Alec	Sleeping dogs	44387	5
+93	Daydreams Of Voice	285	42531	Jazz	Marvin Lord	Army of ants	43626	1
+94	Days For An Angel	352	41132	Pop	Alec	Sleeping dogs	44387	6
+95	Demon Of The Last Time	300	38819	Blues	Jacket	Chaos theory	43468	1
+96	Desired And Heaven	289	42559	Rap	Lynn Blade	Forever alone	43138	3
+97	Desired And Joys	189	43230	Rock	Diane Lake	Life knowledge	44079	5
+98	Devil Of A Dream	212	37860	Pop	Alec	Sleeping dogs	44387	7
+99	Devil Of Me	262	40273	Blues	Jacket	Chaos theory	43468	2
+100	Devilish And Fires	180	37189	Rock	Diane Lake	Life knowledge	44079	6
+101	Devilish And Moment	234	44079	Rock	Diane Lake	Life knowledge	44079	7
+102	Diamond And Rhythm	273	40872	Pop	Alec	Sleeping dogs	44387	8
+103	Differences Of Me	202	42831	Rap	Lynn Blade	Forever alone	43138	4
+104	Do You Feel The Rhythm	208	41159	Pop	Alec	Sleeping dogs	44387	9
+105	Don't Need My Bed	196	37948	Pop	Alec	Sleeping dogs	44387	10
+106	Don't Need Romance	303	37114	Pop	Alec	Sleeping dogs	44387	11
+107	Don't Need Your Time	356	44224	Country	Veil	Feast of nothing	43123	11
+108	Down To Home	278	42776	Country	Veil	Feast of nothing	43123	12
+109	Down To My Love	158	36987	Country	Veil	Feast of nothing	43123	13
+110	Dream Of Her Own Way	258	36585	Pop	Alec	Cloud nine	44158	1
+111	Dream Of My Dance	334	37823	Pop	Alec	Cloud nine	44158	2
+112	Dreaming Of A Broken Soul	226	36849	Blues	Jacket	Chaos theory	43468	3
+113	Dreaming Of Life	331	43598	Jazz	Marvin Lord	Army of ants	43626	2
+114	Drink Of Yesterday	171	38104	Country	Veil	Feast of nothing	43123	14
+115	Drivin' Rhythm	187	37012	Hip Hop	Herman Nolan	Blinded by fame	43425	11
+116	Driving To Body	141	36910	Jazz	Marvin Lord	Army of ants	43626	3
+117	Dusty And Kiss	318	38573	Rock	Legion	Life knowledge	44079	8
+118	Easy And Promises	192	38946	Pop	Chaos	Cloud nine	44158	3
+119	End Of My Life	168	43637	Jazz	Marvin Lord	Army of ants	43626	4
+120	End Of My Wishes	245	38939	Rock	Legion	Life knowledge	44079	9
+121	End Of The Streets	291	40628	Rock	Legion	Life knowledge	44079	10
+122	Endless And Angel	256	38295	Rap	Lynn Blade	Forever alone	43138	5
+123	Faded And Heart	135	41049	Country	Veil	Catch twentythree	43094	1
+124	Fame And Chance	249	41902	Pop	Chaos	Cloud nine	44158	4
+125	Fantastic And Secrets	213	43513	Pop	Chaos	Cloud nine	44158	5
+126	Fever Of My Past	344	41275	Rap	Lynn Blade	Forever alone	43138	6
+127	Fight For A Rainy Day	360	40218	Hip Hop	Jack Law	Live and learn	41000	1
+128	Finding My Everything	123	37621	Blues	Jacket	Chaos theory	43468	4
+129	Finding My World	163	40343	Rap	Lynn Blade	Forever alone	43138	7
+130	Finding Tears	310	44077	Pop	Chaos	Cloud nine	44158	6
+131	Fire Of My Moments	132	43509	Rock	Legion	Life knowledge	44079	11
+132	Fire Of My Story	290	40147	Rock	Legion	Life knowledge	44079	12
+133	First And Mind	221	42349	Pop	Chaos	Cloud nine	44158	7
+134	Flying And Music	235	43046	Country	Veil	Catch twentythree	43094	2
+135	For Her Demons	318	44185	Rock	Legion	Emergency	44185	1
+136	For It All	283	41609	Rap	Lynn Blade	Forever alone	43138	8
+137	For Mind	355	39669	Rock	Legion	Emergency	44185	2
+138	For My Best Friend	354	39642	Hip Hop	Jack Law	Live and learn	41000	2
+139	For Tomorrow	138	39198	Pop	Chaos	Cloud nine	44158	8
+140	Forget About My Time	167	37369	Pop	Chaos	Cloud nine	44158	9
+141	Forget Her Mistake	149	37823	Blues	Jacket	Chaos theory	43468	5
+142	Forget Her Ways	343	37967	Country	Veil	Catch twentythree	43094	3
+143	Forget My Name	137	40475	Pop	Ray	Advantage	43093	1
+144	Forgot Boots	143	36855	Country	Veil	Catch twentythree	43094	4
+145	Forsaken And Games	236	40303	Hip Hop	Jack Law	Live and learn	41000	3
+146	Free And Dream	163	38811	Rock	Legion	Emergency	44185	3
+147	Free And Money	349	41479	Pop	Ray	Advantage	43093	2
+148	Free And Song	271	40971	Rap	Lynn Blade	Forever alone	43138	9
+149	Friend For The Stolen Moments	292	39884	Jazz	Marvin Lord	Army of ants	43626	5
+150	Friends Of A Woman	320	39942	Hip Hop	Jack Law	Live and learn	41000	4
+151	Friends Of Midnight	212	39821	Pop	Ray	Advantage	43093	3
+152	Friends Of My Starlight	282	41859	Rock	Legion	Emergency	44185	4
+153	Friends Of Your Story	167	41610	Rock	Legion	Emergency	44185	5
+154	Full Moon And Angel	162	39943	Rock	Legion	Emergency	44185	6
+155	Full Moon And Joys	156	37117	Rock	Legion	Emergency	44185	7
+156	Funk Of My Imagination	337	43216	Jazz	Marvin Lord	Army of ants	43626	6
+157	Gamble Of Style	231	40379	Pop	Ray	Advantage	43093	4
+158	Gentle And Life	129	39795	Rock	Legion	Emergency	44185	8
+159	Getting To My Song	211	38988	Country	Veil	Catch twentythree	43094	5
+160	Give Back Dreams	141	39713	Electronic	Kirk Dee	Eye of the camera	39731	3
+161	Give Back Heart	242	42437	Blues	Jacket	Chaos theory	43468	6
+162	Give Back Your Girl	240	38538	Country	Veil	Catch twentythree	43094	6
+163	Give Back Your Voice	151	41939	Country	Veil	Catch twentythree	43094	7
+164	Give Your Fire	341	39135	Pop	Ray	Advantage	43093	5
+165	Good And Call	324	37412	Electronic	Kirk Dee	Eye of the camera	39731	4
+166	Good And Chance	328	40598	Pop	Ray	Advantage	43093	6
+167	Good And Nightmare	251	41201	Electronic	Kirk Dee	Final impact	41853	1
+168	Good And Secrets	177	43083	Pop	Ray	Advantage	43093	7
+169	Good And Tonight	158	40459	Pop	Ray	Advantage	43093	8
+170	Good Times Of A Stranger	347	37898	Country	Veil	Catch twentythree	43094	8
+171	Good Times Of Heaven	199	41946	Country	Veil	Pushing up daisies	41954	1
+172	Goodbye And Game	260	38379	Blues	Jacket	Chaos theory	43468	7
+173	Hard And Obsession	305	43391	Blues	Jacket	Chaos theory	43468	8
+174	Hat Of The Night	221	37290	Country	Veil	Pushing up daisies	41954	2
+175	Having Your Baby	229	36699	Pop	Ray	Advantage	43093	9
+176	Haze Of My Thrills	271	43992	Rock	Legion	Emergency	44185	9
+177	Haze Of Starlight	175	42511	Rock	Legion	Emergency	44185	10
+178	He Doesn't Care	346	40924	Pop	Ray	Advantage	43093	10
+179	He Hates He Made A Mistake	123	41861	Rap	Lynn Blade	Forever alone	43138	10
+180	He Heard I Am Crazy	241	37298	Country	Veil	Pushing up daisies	41954	3
+181	He Heard I Want To Bo Alone	138	36874	Blues	Jacket	No boundaries	41653	1
+182	He Heard You're Bad For Me	313	42654	Country	Veil	Pushing up daisies	41954	4
+183	He Hopes He's In The Mood	241	42772	Jazz	Marvin Lord	Army of ants	43626	7
+184	He Hopes She Loves You	278	40819	Country	Veil	Pushing up daisies	41954	5
+185	He Hopes She's Crazy	187	42642	Pop	Ray	Advantage	43093	11
+186	He Hopes We Won't Stop	337	40969	Hip Hop	Jack Law	Live and learn	41000	5
+187	He Knows He Won't Come Back	321	41281	Blues	Jacket	No boundaries	41653	2
+188	He Knows She's Numb	256	44266	Rock	Brash	Knowledge bomb	44267	1
+189	He Loves He Loves You	277	41030	Rock	Brash	Knowledge bomb	44267	2
+190	He Loves I Like To Be Alone	281	36986	Country	Awe	Midnight oil	43988	1
+191	He Loves I Love Her	351	39639	Jazz	Marvin Lord	Army of ants	43626	8
+192	He Loves I Wrote You A Song	347	40585	Jazz	Marvin Lord	Army of ants	43626	9
+193	He Loves We Know	256	36715	Pop	Ray	Advantage	43093	12
+194	He Loves You	291	39753	Pop	Ray	Advantage	43093	13
+195	He Said He Will Try	305	39610	Pop	Ray	Advantage	43093	14
+196	He Said He's Good For You	336	40654	Rock	Brash	Knowledge bomb	44267	3
+197	He Said I Am Crazy	179	40179	Pop	Ray	Advantage	43093	15
+198	He Said I Miss You	267	37695	Country	Awe	Midnight oil	43988	2
+199	He Said I Need You	269	39930	Pop	Poet	Dedication	43081	1
+200	He Said I Won't Stop	143	41762	Pop	Poet	Dedication	43081	2
+201	He Said I'm About To Party	267	41853	Electronic	Jason Orange	Final impact	41853	2
+202	He Said You're Trouble	310	43074	Pop	Poet	Dedication	43081	3
+203	He Thinks I Love Him	309	39343	Rap	Lynn Blade	Forever alone	43138	11
+204	He Thinks I'm A Cowgirl	268	41044	Country	Awe	Midnight oil	43988	3
+205	He Thinks She's No Good	300	43635	Rap	Lynn Blade	Dreams and nightmares	44020	1
+206	He Thinks We're In Love	141	39368	Jazz	Marvin Lord	Army of ants	43626	10
+207	He Thinks You Miss Me	242	37964	Pop	Poet	Dedication	43081	4
+208	Heart Of Dreams	295	39527	Hip Hop	Jack Law	Live and learn	41000	6
+209	Heart Of His Luck	315	38495	Hip Hop	Jack Law	Equivalent exchange	44197	1
+210	Heart Of My Mistakes	221	37536	Rock	Brash	Knowledge bomb	44267	4
+211	Heart Of Time	231	43113	Rap	Lynn Blade	Dreams and nightmares	44020	2
+212	Heartbeat For Us Together	188	38964	Rap	Lynn Blade	Dreams and nightmares	44020	3
+213	Heat Of Glass Heart	166	39829	Rock	Brash	Knowledge bomb	44267	5
+214	Her Sunshine	229	37005	Country	Awe	Midnight oil	43988	4
+215	He's A Troublemaker	165	40512	Pop	Poet	Dedication	43081	5
+216	He's Going To Make You Sweat	238	36580	Electronic	Jason Orange	Final impact	41853	3
+217	He's Good For You	175	37879	Rap	Lynn Blade	Dreams and nightmares	44020	4
+218	He's Mysterious	248	42827	Rock	Brash	Knowledge bomb	44267	6
+219	History Of Your Name	232	37813	Blues	Jacket	No boundaries	41653	3
+220	Hold Me Tonight	161	42238	Rock	Brash	Knowledge bomb	44267	7
+221	Home And Moves	347	41978	Pop	Poet	Dedication	43081	6
+222	Home And Secrets	193	39918	Pop	Poet	Dedication	43081	7
+223	Home Of My Affection	268	42166	Country	Awe	Midnight oil	43988	5
+224	Home Of My Childhood	135	37876	Jazz	Marvin Lord	Army of ants	43626	11
+225	Home Of My World	264	42933	Rap	Lynn Blade	Dreams and nightmares	44020	5
+226	Homesick And Memories	237	38696	Blues	Jacket	No boundaries	41653	4
+227	"Honey,"	227	41171	Rock	Brash	Knowledge bomb	44267	8
+228	"Honey, Feel The Rhythm"	213	38901	Rock	Brash	Louder than words	43124	1
+229	"Honey, I Think I Love You"	313	42103	Rap	Lynn Blade	Dreams and nightmares	44020	6
+230	"Honey, I'm A Rebel"	207	41887	Hip Hop	Jack Law	Equivalent exchange	44197	2
+231	"Honey, I'm On The Wild Side"	200	43124	Rock	Brash	Louder than words	43124	2
+232	"Honey, Remember Tomorrow"	296	39864	Pop	Poet	Dedication	43081	8
+233	Hot And Madness	266	42125	Rock	Brash	Louder than words	43124	3
+234	Hot And Sunshine	334	43352	Rap	Lynn Blade	Dreams and nightmares	44020	7
+235	Hour Of Us	243	37269	Rock	Brash	Louder than words	43124	4
+236	House Of Your Starlight	185	41766	Rock	Brash	Louder than words	43124	5
+237	I Am The One	210	40198	Rock	Brash	Louder than words	43124	6
+238	I Hate He's All Alone	290	43713	Rap	Lynn Blade	Dreams and nightmares	44020	8
+239	I Hate I Am The One	233	38196	Rock	Brash	Louder than words	43124	7
+240	I Hate I'm A Lonesome Cowboy	253	43979	Country	Awe	Midnight oil	43988	6
+241	I Hate You Called For Me	223	40242	Rock	Sam Coleman	Hold the phone	43043	1
+242	I Heard I Cannot Go On	131	39585	Country	Awe	Midnight oil	43988	7
+243	I Heard I'm All Out Of Love	177	39789	Rock	Sam Coleman	Hold the phone	43043	2
+244	I Heard She's Crazy	150	44261	Country	Awe	Midnight oil	43988	8
+245	I Hope I Hate You	349	37812	Blues	Jacket	No boundaries	41653	5
+246	I Hope I'm Guilty	217	39795	Hip Hop	Jack Law	Equivalent exchange	44197	3
+247	I Hope She's Bad For You	178	36781	Country	Awe	Dream big	44001	1
+248	I Know He Won't Come Back	276	37472	Blues	Jacket	No boundaries	41653	6
+249	I Know I Am Troubled	270	42289	Country	Awe	Dream big	44001	2
+250	I Love Rock 'N Roll	223	36550	Rock	Sam Coleman	Hold the phone	43043	3
+251	I Love That Cha-Ching Sound	313	43948	Hip Hop	Jack Law	Equivalent exchange	44197	4
+252	I Love Tomorrow	263	38956	Electronic	Jason Orange	Final impact	41853	4
+253	I Miss Her Own	160	43859	Country	Awe	Dream big	44001	3
+254	I Said He's Bad For You	123	43059	Electronic	Jason Orange	Nemesis	43891	1
+255	I Said He's Good For You	223	42458	Rock	Sam Coleman	Hold the phone	43043	4
+256	I Said I'm Tainted	344	43043	Rock	Sam Coleman	Hold the phone	43043	5
+257	I Said She's Crazy	338	39641	Pop	Poet	Dedication	43081	9
+258	I Said We Like To Party	310	40216	Pop	Poet	Barrage of noise	43562	1
+259	I Think He Can't Stand You	302	39351	Blues	Jacket	No boundaries	41653	7
+260	I Think He's A Beast	302	40355	Rock	Sam Coleman	Hold the phone	43043	6
+261	I Think I Like You	131	37659	Rap	Lynn Blade	Dreams and nightmares	44020	9
+262	I Think I Love You	311	39337	Rock	Sam Coleman	Hold the phone	43043	7
+263	I Think She's Into You	283	41141	Rock	Sam Coleman	Hold the phone	43043	8
+264	I'll Be There For You	236	43009	Pop	Poet	Barrage of noise	43562	2
+265	I'll Love You Forever	177	38357	Pop	Poet	Barrage of noise	43562	3
+266	I'll Rule The World	311	41984	Hip Hop	Jack Law	Equivalent exchange	44197	5
+267	I'll Take You On A Journey	270	41252	Rock	Sam Coleman	Hold the phone	43043	9
+268	I'm A Troublemaker	199	37371	Pop	Poet	Barrage of noise	43562	4
+269	I'm Falling For You	177	38359	Pop	Gold	Barrage of noise	43562	5
+270	I'm Falling In Love	170	39167	Rock	Jamie Keith	Fifth chance	41126	1
+271	I'm In Love With You	308	42958	Pop	Gold	Barrage of noise	43562	6
+272	I'm Nothing Without You	172	43073	Rap	Lynn Blade	Dreams and nightmares	44020	10
+273	I'm With You	133	36533	Pop	Gold	Barrage of noise	43562	7
+274	Images For The Memories	183	41606	Blues	Jacket	No boundaries	41653	8
+275	Imagine Your Place	295	41223	Pop	Gold	Barrage of noise	43562	8
+276	Insanity Of My Goals	350	44222	Rap	Ruby Mann	Grains of salt	44471	1
+277	It's Not Okay	216	42742	Rap	Ruby Mann	Grains of salt	44471	2
+278	Journey Of Thunder	294	40811	Rock	Jamie Keith	Fifth chance	41126	2
+279	Jungle	282	39994	Hip Hop	Jack Law	Equivalent exchange	44197	6
+280	Last And Chances	145	40566	Pop	Gold	Barrage of noise	43562	9
+281	Last And Crazy	169	39328	Pop	Boar	All doubt	44197	1
+282	Last And Rhythm	238	38129	Pop	Boar	All doubt	44197	2
+283	Last And Song	257	39152	Pop	Boar	All doubt	44197	3
+284	Leave Me Alone	121	40230	Blues	Badger	Bittersweet	44231	1
+285	Let's Go	203	38582	Pop	Boar	All doubt	44197	4
+286	Let's Talk About It	282	42602	Hip Hop	Jack Law	Equivalent exchange	44197	7
+287	Light For Two	279	44137	Pop	Boar	All doubt	44197	5
+288	Light Of Daylight	217	39016	Pop	Boar	All doubt	44197	6
+289	Living Of His Name	232	38484	Rock	Jamie Keith	Fifth chance	41126	3
+290	Lose Her Fire	264	36905	Hip Hop	Jack Law	Equivalent exchange	44197	8
+291	Lose Her Way	190	40633	Pop	Boar	Animal kingdom	43660	1
+292	Lose Your Tomorrow	255	43880	Electronic	Jason Orange	Nemesis	43891	2
+293	Lost And Soul	260	41414	Blues	Badger	Bittersweet	44231	2
+294	Love And Circus	206	40626	Pop	Boar	Animal kingdom	43660	2
+295	Love And Power	122	42997	Pop	Boar	Animal kingdom	43660	3
+296	Love For Everything	297	41126	Rock	Jamie Keith	Fifth chance	41126	4
+297	Love For My Name	216	42587	Rock	Jamie Keith	Honestly	43139	1
+298	Love For My Soul	289	40451	Rap	Ruby Mann	Grains of salt	44471	3
+299	Love Of My Lust	316	36533	Rap	Ruby Mann	Grains of salt	44471	4
+300	Loved By My Moment	181	43139	Rock	Jamie Keith	Honestly	43139	2
+301	Loved By Your Love	148	39839	Country	Awe	Dream big	44001	4
+302	Loving My Fire	282	39644	Pop	Boar	Animal kingdom	43660	4
+303	Luck Of Strangers	282	39059	Jazz	Marvin Lord	Army of ants	43626	12
+304	Lyrical And Future	144	40097	Hip Hop	Carl Hill	Under the bus	43403	1
+305	Man And Secrets	280	42810	Pop	Rise	Animal kingdom	43660	5
+306	Master Of Fire	169	40147	Jazz	Arthur Bishop	Emotional wreckage	43499	1
+307	Matter Of The Evening	257	37385	Country	Awe	Dream big	44001	5
+308	Melody For Money	223	42004	Pop	Rise	Animal kingdom	43660	6
+309	Memories For Love	151	38435	Pop	Mae Cameron	Death's dead	44265	1
+310	Memories Of Her Friends	256	41575	Country	Awe	Dream big	44001	6
+311	Middle For My Baby	276	39876	Pop	Mae Cameron	Death's dead	44265	2
+312	Midnight And Blues	150	36550	Blues	Badger	Bittersweet	44231	3
+313	Midnight And Chance	153	41186	Pop	Mae Cameron	Death's dead	44265	3
+314	Midnight And Chances	248	37022	Country	Awe	Dream big	44001	7
+315	Midnight And Dream	151	37671	Rock	Jamie Keith	Honestly	43139	3
+316	Midnight And Riders	206	38831	Country	Awe	Dream big	44001	8
+317	Ministry Of Thunder	286	41763	Electronic	Jason Orange	Nemesis	43891	3
+318	Minute Of Hell	154	41036	Hip Hop	Carl Hill	Under the bus	43403	2
+319	Moment For The Man	306	42618	Pop	Mae Cameron	Death's dead	44265	4
+320	Moment Of Freedom	290	39816	Country	Awe	Dream big	44001	9
+321	Moments Of My Music	171	37922	Rap	Ruby Mann	Grains of salt	44471	5
+322	Money For My Soul	339	38046	Rock	Jamie Keith	Honestly	43139	4
+323	Morning And Chances	286	42900	Rap	Ruby Mann	Grains of salt	44471	6
+324	Morning And Games	165	42028	Blues	Badger	Bittersweet	44231	4
+325	Need For My Mind	350	39056	Jazz	Arthur Bishop	Emotional wreckage	43499	2
+326	New And Heaven	251	36573	Rock	Jamie Keith	Honestly	43139	5
+327	Night And Games	278	39040	Country	Awe	Dream big	44001	10
+328	Nightlife And Sensations	354	39526	Rock	Jamie Keith	Honestly	43139	6
+329	No And Tales	196	42670	Pop	Mae Cameron	Death's dead	44265	5
+330	No Is Not An Answer	134	36866	Rap	Ruby Mann	Grains of salt	44471	7
+331	Numb And Things	347	43406	Rap	Ruby Mann	Grains of salt	44471	8
+332	Old And Life	148	36549	Country	Awe	Dream big	44001	11
+333	One More And Love	316	37394	Hip Hop	Carl Hill	Under the bus	43403	3
+334	Out Of Your Kiss	339	44172	Pop	Mae Cameron	Death's dead	44265	6
+335	Out Of Your Shadow	354	37140	Pop	Mae Cameron	Death's dead	44265	7
+336	Pain Of My Imagination	320	37460	Rap	Ruby Mann	Speak of the demon	43728	1
+337	Paradise Of Her Tomorrow	226	43181	Rap	Ruby Mann	Speak of the demon	43728	2
+338	Paradise Of Her Ways	140	41874	Rock	Raylee Summers	Fight and flight	41874	1
+339	Paradise Of My	163	40400	Rock	Raylee Summers	Fight and flight	41874	2
+340	Paradise Of My Home	219	42720	Jazz	Arthur Bishop	Emotional wreckage	43499	3
+341	Piece Of Forever	316	37375	Country	Awe	Dream big	44001	12
+342	Precious And Vibes	351	42981	Rap	Ruby Mann	Speak of the demon	43728	3
+343	Promise Of Life	268	37558	Rap	Ruby Mann	Speak of the demon	43728	4
+344	Rain For Eternity	228	37848	Rap	Ruby Mann	Speak of the demon	43728	5
+345	Rain Of Your Stories	351	42833	Rap	Ruby Mann	Speak of the demon	43728	6
+346	Reach For Your Sunshine	313	38616	Pop	Zoe Perry	Death's dead	44265	8
+347	Rebel And Streets	341	43370	Hip Hop	Carl Hill	Under the bus	43403	4
+348	Reflections Of My Affection	225	37557	Blues	Badger	Bittersweet	44231	5
+349	Reject My Strength	180	39941	Pop	Leona Keith	Preaching choir	44323	1
+350	Remember Good Times	342	38388	Electronic	Jason Orange	Nemesis	43891	4
+351	Remember My Best Friend	145	37815	Pop	Leona Keith	Preaching choir	44323	2
+352	Remember My Rodeo	337	43434	Country	Awe	Dream big	44001	13
+353	Remember Pain	122	39661	Hip Hop	Donald Rey	Crocodile tears	40303	1
+354	Remember The Good Times?	353	40506	Rock	Raylee Summers	Fight and flight	41874	3
+355	Road And Chances	242	37536	Country	Awe	Dream big	44001	14
+356	Road And Games	235	37883	Country	Awe	Dream big	44001	15
+357	Rusty And Secrets	275	36718	Rock	Raylee Summers	Fight and flight	41874	4
+358	Season For A Girl Like You	304	37468	Pop	Leona Keith	Preaching choir	44323	3
+359	Seconds For Freedom	224	40132	Hip Hop	Donald Rey	Crocodile tears	40303	2
+360	Shadows Of His Imagination	296	38787	Rock	Raylee Summers	Fight and flight	41874	5
+361	She Hates I Hate To Be Alone	324	41761	Country	Tune	Childhood memoires	43613	1
+362	She Hates I Love Her	202	42517	Rap	Ruby Mann	Speak of the demon	43728	7
+363	She Hates I'm A Cowgirl	122	43575	Country	Tune	Childhood memoires	43613	2
+364	She Hates We're Rocking The World	304	37158	Rock	Alex Crane	For two songs	43468	1
+365	She Hates You Called For Me	239	43457	Rock	Alex Crane	For two songs	43468	2
+366	She Hates You're Wild	179	38563	Rock	Alex Crane	For two songs	43468	3
+367	She Heard I No Longer Need You	288	43238	Blues	Badger	Bittersweet	44231	6
+368	She Heard We Cannot Go On	206	42088	Rap	Ruby Mann	Speak of the demon	43728	8
+369	She Hopes He Wants You	133	40183	Pop	Leona Keith	Preaching choir	44323	4
+370	She Hopes He Will Try	153	37623	Pop	Leona Keith	Preaching choir	44323	5
+371	She Hopes He's A Troublemaker	345	44099	Blues	Badger	Bittersweet	44231	7
+372	She Hopes He's Trouble	140	40118	Pop	Leona Keith	Preaching choir	44323	6
+373	She Knows	274	44057	Pop	Leona Keith	Preaching choir	44323	7
+374	She Knows He Needs You	195	38394	Pop	Leona Keith	Preaching choir	44323	8
+375	She Knows He's A Troublemaker	207	37640	Country	Tune	Childhood memoires	43613	3
+376	She Knows I'm Streetwise	149	37295	Hip Hop	Donald Rey	Crocodile tears	40303	3
+377	She Knows She's Got Her Eye On You	175	37383	Rap	Ruby Mann	Speak of the demon	43728	9
+378	She Knows You Have To Leave	251	42158	Rap	Tanya Vice	Zero experience	44272	1
+379	She Knows You're Trouble	313	44167	Blues	Badger	Bittersweet	44231	8
+380	She Loves He Won't Come Back	311	37036	Country	Tune	Childhood memoires	43613	4
+381	She Loves He Wrote A Song About Me	157	39556	Jazz	Arthur Bishop	Emotional wreckage	43499	4
+382	She Loves He's Going Insane	351	41717	Electronic	Jason Orange	Nemesis	43891	5
+383	She Loves I'm Falling For You	249	37932	Pop	Leona Keith	Preaching choir	44323	9
+384	She Loves She's Into You	201	38038	Rock	Alex Crane	For two songs	43468	4
+385	She Loves You	290	38941	Rap	Tanya Vice	Zero experience	44273	2
+386	She Said He's Crazy	141	39005	Electronic	Jason Orange	Nemesis	43891	6
+387	She Said She's Been Played	255	43117	Hip Hop	Joel Nicholas	Flower shower	44050	1
+388	She Thinks He's In Love	339	42669	Rap	Tanya Vice	Zero experience	44274	3
+389	She Thinks I Can Do It	304	43489	Jazz	Arthur Bishop	Emotional wreckage	43499	5
+390	She Thinks I Need That Beat	182	36950	Hip Hop	Joel Nicholas	Flower shower	44050	2
+391	She Thinks She Hurt You	208	37491	Rock	Alex Crane	For two songs	43468	5
+392	She Thinks She Loves You	296	40920	Pop	Leona Keith	Preaching choir	44323	10
+393	She Thinks You Miss Me	233	38504	Electronic	Jason Orange	Nemesis	43891	7
+394	She's Crazy	280	40794	Electronic	Jason Orange	Nemesis	43891	8
+395	She's In The Mood	230	38670	Jazz	Arthur Bishop	Emotional wreckage	43499	6
+396	She's Rock 'N Roll	205	38521	Rock	Alex Crane	For two songs	43468	6
+397	She's The Devil	140	40820	Rock	Rain	No celebration	43407	1
+398	She's Trouble	219	37269	Blues	Badger	Bittersweet	44231	9
+399	Silent And Chances	356	39682	Rock	Rain	No celebration	43407	2
+400	Silver And Song	326	42386	Country	Tune	Childhood memoires	43613	5
+401	Simulation Of A Woman	127	38189	Electronic	Herman Nolan	Blinded by fame	43425	1
+402	Sleeping And Dreams	193	39302	Blues	Badger	Bittersweet	44231	10
+403	Smile For Me	312	42527	Pop	Courtney Mill	No discounts	44300	1
+404	Smile With Me	318	43401	Pop	Courtney Mill	No discounts	44300	2
+405	Smoking And Chance	227	37565	Rock	Rain	No celebration	43407	3
+406	Smoking And Kiss	197	40406	Rock	Rain	No celebration	43407	4
+407	Smooth And Feelings	136	39674	Rock	Rain	No celebration	43407	5
+408	Smooth And Jungle	138	41832	Rock	Rain	No celebration	43407	6
+409	Song Of Old	146	42939	Blues	Badger	The drawing board	44032	1
+410	Song Of You	298	36592	Blues	Badger	The drawing board	44032	2
+411	Soul Of Her Darling	133	42103	Hip Hop	Joel Nicholas	Flower shower	44050	3
+412	Soul Of The Good Life	135	44016	Pop	Courtney Mill	No discounts	44300	3
+413	Sound Of The World	126	39190	Hip Hop	Joel Nicholas	Flower shower	44050	4
+414	Sounds Of Her Shadows	323	39956	Rap	Tanya Vice	Zero experience	44275	4
+415	South Of A Storm	127	43298	Country	Tune	Childhood memoires	43613	6
+416	Speed Of My Ignorance	247	40612	Rock	Rain	No celebration	43407	7
+417	Speed Of Us	350	43128	Hip Hop	Joel Nicholas	Flower shower	44050	5
+418	Speed Of Your Story	258	43407	Rock	Rain	No celebration	43407	8
+419	Spring And Steps	187	43997	Jazz	Arthur Bishop	Emotional wreckage	43499	7
+420	Stars For Me	235	39922	Country	Tune	Beyond infinity	42470	1
+421	"Stop It, Let Me Be"	136	37716	Blues	Badger	The drawing board	44032	3
+422	"Stop, A Storm Is Brewing"	316	42900	Blues	Badger	The drawing board	44032	4
+423	Stormy And Lies	335	40401	Blues	Badger	The drawing board	44032	5
+424	Story For Two	234	43980	Blues	Badger	The drawing board	44032	6
+425	Story Of My Party	277	42531	Pop	Courtney Mill	No discounts	44300	4
+426	Stranger Of Us	347	38842	Pop	Courtney Mill	No discounts	44300	5
+427	Strings Of Nowhere	157	40033	Pop	Courtney Mill	No discounts	44300	6
+428	Sun For A Living	310	43440	Electronic	Herman Nolan	Blinded by fame	43425	2
+429	Sun Of Wide Open Spaces	148	40195	Country	Tune	Beyond infinity	42470	2
+430	Sure And Fireworks	312	42446	Pop	Courtney Mill	No discounts	44300	7
+431	Sure And Game	168	38369	Country	Tune	Beyond infinity	42470	3
+432	Sure And Money	287	40085	Blues	Badger	The drawing board	44032	7
+433	Sure And Romance	156	39544	Pop	Courtney Mill	No discounts	44300	8
+434	Sure And Song	210	44279	Pop	Courtney Mill	No discounts	44300	9
+435	Surprise Of Never	217	38137	Pop	Courtney Mill	No discounts	44300	10
+436	Surprise Of Somebody	161	37254	Blues	Badger	The drawing board	44032	8
+437	Survival Of Thunder	240	41464	Rock	Rain	Beginner's luck	43572	1
+438	Sweet And Mic	136	39070	Hip Hop	Joel Nicholas	Flower shower	44050	6
+439	Sweet And Mind	134	38055	Pop	Courtney Mill	Fault of treasures	43809	1
+440	"Sweetie, Let's Be Free Tonight"	232	42155	Pop	Courtney Mill	Fault of treasures	43809	2
+441	"Sweetie, Remember The Times"	330	40565	Pop	Courtney Mill	Fault of treasures	43809	3
+442	"Sweetie, Thank You For Nothing"	260	40622	Country	Tune	Beyond infinity	42470	4
+443	"Sweetie, When You're Smiling"	230	40954	Pop	Courtney Mill	Fault of treasures	43809	4
+444	They Can't Hold Us Down	175	37410	Pop	Courtney Mill	Fault of treasures	43809	5
+445	Think About Her	313	40257	Country	Tune	Beyond infinity	42470	5
+446	Think About His Fire	336	40979	Pop	Courtney Mill	Fault of treasures	43809	6
+447	Think About Voice	151	43626	Blues	Badger	The drawing board	44032	9
+448	Thoughts Of The Road	337	43860	Rap	Tanya Vice	Zero experience	44276	5
+449	Thrill Of The Devil	290	43572	Rock	Rain	Beginner's luck	43572	2
+450	Thrill Of The Good Life	326	37600	Country	Tune	Beyond infinity	42470	6
+451	Tickle Your Bed	193	43559	Pop	Courtney Mill	Fault of treasures	43809	7
+452	Time And Circus	228	36541	Pop	Courtney Mill	Fault of treasures	43809	8
+453	Time Of Mind	237	40485	Rap	Tanya Vice	Zero experience	44277	6
+454	Time Of That Heart	318	37854	Hip Hop	Joel Nicholas	Flower shower	44050	7
+455	Times Of Beauty	164	40464	Jazz	Arthur Bishop	Emotional wreckage	43499	8
+456	Tired Of The Ages	186	40482	Pop	Madison Shannon	Just the beginning	42534	1
+457	Triumph Of My Life	139	44042	Hip Hop	Joel Nicholas	Flower shower	44050	8
+458	Turn Up The Volume	171	37349	Rock	Rain	Beginner's luck	43572	3
+459	Twist Of A New Day	347	37610	Rap	Tanya Vice	Zero experience	44278	7
+460	Twisted And Fire	322	38259	Rock	Rain	Beginner's luck	43572	4
+461	Wait For His Song	337	38406	Country	Tune	Beyond infinity	42470	7
+462	Walk With His Everything	274	40362	Pop	Madison Shannon	Just the beginning	42534	2
+463	Walk With My Home	214	39737	Pop	Madison Shannon	Just the beginning	42534	3
+464	Want Of The Chase	328	38779	Electronic	Herman Nolan	Blinded by fame	43425	3
+465	Wanted And Promises	323	37811	Hip Hop	Joel Nicholas	Flower shower	44050	9
+466	We Like To Party	272	39242	Pop	Madison Shannon	Just the beginning	42534	4
+467	Welcome And Secrets	172	41301	Hip Hop	Joel Nicholas	Glass houses	43968	1
+468	We're Crazy	350	42181	Pop	Madison Shannon	Just the beginning	42534	5
+469	We're Rocking All Night	318	39765	Rock	Rain	Beginner's luck	43572	5
+470	We're Rocking The World	201	40507	Rock	Bennie Clare	Decisions decisions	43761	1
+471	When You're Gone	301	37898	Pop	Madison Shannon	Just the beginning	42534	6
+472	Whisper Her Dirt	194	41944	Hip Hop	Joel Nicholas	Glass houses	43968	2
+473	Whisper His Sorrow	357	40408	Blues	Badger	The drawing board	44032	10
+474	Whisper My Bed	262	42185	Blues	Badger	The drawing board	44032	11
+475	Whispers Of Body	296	43463	Jazz	Jay Mack	Dime in two dozen	43454	1
+476	Wicked And Forever	234	41704	Rock	Bennie Clare	Decisions decisions	43761	2
+477	Wild Of A Nightmare	193	42532	Hip Hop	Joel Nicholas	Glass houses	43968	3
+478	Winter And Love	155	42027	Jazz	Jay Mack	Dime in two dozen	43454	2
+479	Wish Of The Dusty Road	351	40272	Country	Tune	Beyond infinity	42470	8
+480	With	262	38043	Jazz	Jay Mack	Dime in two dozen	43454	3
+481	Without Her Echo	176	37209	Pop	Madison Shannon	Just the beginning	42534	7
+482	Without Her Kiss	239	42191	Pop	Madison Shannon	Just the beginning	42534	8
+483	Woman And Secrets	237	39773	Pop	Madison Shannon	Just the beginning	42534	9
+484	Years Of The Dusty Road	228	42470	Country	Tune	Beyond infinity	42470	9
+485	You Can Dance	201	43162	Jazz	Jay Mack	Dime in two dozen	43454	4
+486	You Crushed Me	299	42275	Rock	Bennie Clare	Decisions decisions	43761	3
+487	You Have To Leave	242	41045	Rap	Tanya Vice	Zero experience	44272	8
+488	You Killed Me	314	41052	Rock	Bennie Clare	Decisions decisions	43761	4
+489	You Knock Me Off My Feet	351	44272	Rap	Tanya Vice	Chip off the old block	44421	1
+490	You Love Me	298	43536	Rock	Bennie Clare	Decisions decisions	43761	5
+491	You Miss Me	297	42943	Pop	Madison Shannon	Patient zero	43857	1
+492	Young And Dream	127	36972	Jazz	Jay Mack	Dime in two dozen	43454	5
+493	Young And Fire	321	36595	Country	Kirk Dee	Eye of the camera	39731	1
+494	You're A Fool	358	41618	Rock	Bennie Clare	Decisions decisions	43761	6
+495	You're Everything To Me	168	43761	Rock	Bennie Clare	Decisions decisions	43761	7
+496	You're My Everything	276	43286	Pop	Madison Shannon	Patient zero	43857	2
+497	You're My One And Only	256	44176	Pop	Madison Shannon	Patient zero	43857	3
+498	You're Perfect	157	41992	Rap	Tanya Vice	Chip off the old block	44421	2
+499	You're Trouble	184	41461	Blues	Badger	The drawing board	44032	12
+500	You're Wild	178	40386	Pop	Madison Shannon	Patient zero	43857	4
